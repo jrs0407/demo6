@@ -7,7 +7,7 @@ import { HttpFactory } from "./http/HttpFactory";
 import { HttpFactory2 } from "./http/HttpFactory2";
 import { HttpFetch } from "./http/HttpFetch";
 
-export class FilmAdapter {
+export class FilmAdapter { 
 
     static ROUTES = {
         nowPlaying: "/now_playing",

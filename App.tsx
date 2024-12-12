@@ -36,7 +36,7 @@ export default function App() {
       
       >
         <Tab.Screen name="Home" component={HomeScreen} options={{ title: 'Películas' }}/>
-        <Tab.Screen name="Settings" component={SettingsScreen} options={{ title: 'Configuración' }}/>
+        <Tab.Screen name="Home 1" component={SettingsScreen} options={{ title: 'Configuración' }}/>
       </Tab.Navigator>
     </NavigationContainer>
   );
